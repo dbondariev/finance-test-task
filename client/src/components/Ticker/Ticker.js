@@ -1,7 +1,7 @@
 // Ticker.js
 import React from "react";
 import PropTypes from "prop-types";
-import "./Ticker.css"; // Create a CSS file for styling
+import "../Ticker/Ticker.css"; 
 
 const Ticker = ({ data }) => {
   return (

@@ -1,4 +1,3 @@
-// src/App.js
 import React from "react";
 import "./App.css";
 import TickerList from "./components/TickerList/TickerList";

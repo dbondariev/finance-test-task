@@ -2,7 +2,7 @@
 import React, { useState, useEffect } from "react";
 import io from "socket.io-client";
 import Ticker from "../Ticker/Ticker";
-import "./TickerList.css"; // Create a CSS file for styling
+import "../TickerList/TickerList.css"; 
 
 const socket = io("http://localhost:4000");
 
