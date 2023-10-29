@@ -1,0 +1,17 @@
+.ticker-row {
+  background-color: #f5f5f5;
+  text-align: center;
+}
+
+.ticker-row td {
+  padding: 8px 12px;
+  border: 1px solid #ccc;
+}
+
+.ticker-row td:first-child {
+  font-weight: bold;
+}
+
+.ticker-row:hover {
+  background-color: #e0e0e0;
+}
